@@ -55,16 +55,3 @@ app.post("/failure", (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
   console.log("listening 3000");
 });
-
-//api keys
-//586addc9e3e72ea5ac5c94d523f9a119-us7
-//list id
-//049eccd5e7
-
-//mailchimp.com
-//username => ECSPNewsLetter
-//password => ECSP2:news
-
-//gmail.com
-//email => newsletter4ecsp@gmail.com
-//password => newsletter2ecsp
